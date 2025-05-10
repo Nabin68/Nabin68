@@ -1,6 +1,6 @@
 👋 Hi, I’m @Nabin68
 <br>
-👀 I’m interested in Web Development and Machine Learning
+👀 I’m interested in Machine Learning and Web Development 
 <br>
 🌱 I’m currently learning AI/ML and expanding my skills in Data Structures & Algorithms
 <br>
