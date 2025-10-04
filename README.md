@@ -68,7 +68,7 @@ On a journey to become a **Machine Learning Engineer** and a **Flutter/Dart App 
 
 ### 🤖 AI / ML Projects
 
-🔹 **[Friday – AI Voice Assistant](https://github.com/Nabin68/friday)**  
+🔹 **[Omnis-AI All in one Assistance](https://github.com/Nabin68/Omnis-AI)**  
 _An intelligent, multilingual voice assistant for browsing, emailing, calling, and more._
 
 ---
